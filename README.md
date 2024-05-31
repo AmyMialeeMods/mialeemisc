@@ -1,5 +1,7 @@
 # Mialee Misc
 
+## Replaced by Mialib and will no longer be updated
+
 ## Features
 - Custom Item Group system, allows item groups with cycling display icons.
 - StatusEffect and DamageModifierStatusEffect classes with public constructors.
